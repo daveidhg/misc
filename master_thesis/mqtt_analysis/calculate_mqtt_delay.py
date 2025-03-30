@@ -29,6 +29,7 @@ def calculate_delays(data):
     
     topic1, topic2 = data.keys()
     topic2_ptr = 0
+    failed = 0
     for sensor_time1, timestamp1 in data[topic1]:
         sensor_time2, timestamp2 = data[topic2][topic2_ptr]
         if sensor_time1 == sensor_time2:
@@ -36,18 +37,22 @@ def calculate_delays(data):
             topic2_ptr += 1
             if topic2_ptr == len(data[topic2]):
                 break
-    return delays
+        else:
+            failed += 1
+    return delays, failed
 
-def print_info(delays, file):
+def print_info(delays, failed, file):
     assert delays, "Error: No delays found."
     print(f"Average delay for {file}: {sum(delay for _, delay in delays) / len(delays):.6f}")
+    if failed:
+        print(f"Failed to match {failed} messages.")
 
 def main():
     file_path = ("baseline.csv", "manual_auth_token.csv", "auto_auth_token.csv") 
     for (file) in file_path:
         data = parse_csv(file)
-        delays = calculate_delays(data)
-        print_info(delays, file)
+        delays, failed = calculate_delays(data)
+        print_info(delays, failed, file)
 
 if __name__ == "__main__":
     main()

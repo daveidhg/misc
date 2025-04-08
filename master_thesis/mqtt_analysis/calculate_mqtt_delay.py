@@ -14,9 +14,12 @@ def parse_csv(file_path):
             timestamp = float(row[4])  # Epoch timestamp from CSV
             
             if 'ts' in payload:
-                sensor_time = payload['ts']  # For i/bme680
+                sensor_time = payload['ts']
             else:
-                sensor_time = payload['body']['data'][0]['Timestamp']['value']['@value']  # For multiSensor/temperature
+                if 'body' in payload:
+                    sensor_time = payload['body']['data'][0]['Timestamp']['value']['@value'] 
+                else:
+                    sensor_time = payload['data'][0]['Timestamp']['value']['@value']
                 
             data[topic].append((sensor_time, timestamp))
     
@@ -48,7 +51,7 @@ def print_info(delays, failed, file):
         print(f"Failed to match {failed} messages.")
 
 def main():
-    file_path = ("baseline.csv", "manual_auth_token.csv", "auto_auth_token.csv") 
+    file_path = ("local_noauth.csv", "local_manualauth.csv", "local_autoauth.csv", "remote_noauth.csv", "remote_manualauth.csv", "remote_autoauth.csv") 
     for (file) in file_path:
         data = parse_csv(file)
         delays, failed = calculate_delays(data)

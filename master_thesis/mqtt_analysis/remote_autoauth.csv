@@ -1,0 +1,2444 @@
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1331660.0,
+	""h"" : 26.0,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.43,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:00.952Z""
+}",0,False,1744129254.2687895,2.6432950496673584
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1331660.0,
+	""h"" : 26.0,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.43,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:00.952Z""
+}",0,False,1744129254.321631,0.0528414249420166
+multiSensor/bme680,"{""id"": ""notification:-6433732194305991385"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:20:54.319000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1331660}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.61}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.43}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:17:00.952Z""}}}]}",0,False,1744129254.3700006,0.048369646072387695
+multiSensor/bme680,"{""id"": ""notification:-6739007353768382370"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:20:54.373000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1331660}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.61}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.43}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:17:00.952Z""}}}]}",0,False,1744129254.4195747,0.04957413673400879
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.0,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:03.951Z""
+}",0,False,1744129257.3794825,2.9599077701568604
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.0,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:03.951Z""
+}",0,False,1744129257.4275808,0.04809832572937012
+multiSensor/bme680,"{""id"": ""notification:-4830602942046010501"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:20:57.429000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.61}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.44}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:17:03.951Z""}}}]}",0,False,1744129257.475765,0.04818415641784668
+multiSensor/bme680,"{""id"": ""notification:-6829632658837040076"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:20:57.483000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.61}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.44}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:17:03.951Z""}}}]}",0,False,1744129257.523469,0.04770398139953613
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1330320.0,
+	""h"" : 26.0,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:06.952Z""
+}",0,False,1744129260.4989772,2.975508213043213
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1330320.0,
+	""h"" : 26.0,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:06.952Z""
+}",0,False,1744129260.5524466,0.05346941947937012
+multiSensor/bme680,"{""id"": ""notification:-5087584402177383816"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:21:00.540000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1330320}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.61}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.44}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:17:06.952Z""}}}]}",0,False,1744129260.6018379,0.04939126968383789
+multiSensor/bme680,"{""id"": ""notification:-4816702613505330143"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:21:00.601000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1330320}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.61}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.44}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:17:06.952Z""}}}]}",0,False,1744129260.6497266,0.047888755798339844
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:09.951Z""
+}",0,False,1744129263.6102684,2.9605417251586914
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:09.951Z""
+}",0,False,1744129263.6593604,0.04909205436706543
+multiSensor/bme680,"{""id"": ""notification:-7716848356721405068"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:21:03.658000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.44}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:17:09.951Z""}}}]}",0,False,1744129263.7075238,0.048163414001464844
+multiSensor/bme680,"{""id"": ""notification:-7883572055060654023"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:21:03.724000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.44}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:17:09.951Z""}}}]}",0,False,1744129263.7562191,0.04869532585144043
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1333000.0,
+	""h"" : 26.0,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:12.952Z""
+}",0,False,1744129266.7240944,2.9678752422332764
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1333000.0,
+	""h"" : 26.0,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:12.952Z""
+}",0,False,1744129266.780854,0.05675959587097168
+multiSensor/bme680,"{""id"": ""notification:-8129371623227429878"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:21:06.775000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1333000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.44}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:17:12.952Z""}}}]}",0,False,1744129266.830007,0.04915308952331543
+multiSensor/bme680,"{""id"": ""notification:-8644883834887746826"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:21:06.834000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1333000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.44}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:17:12.952Z""}}}]}",0,False,1744129266.8782985,0.04829144477844238
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.0,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:15.951Z""
+}",0,False,1744129269.8356342,2.9573357105255127
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.0,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:15.951Z""
+}",0,False,1744129269.8875086,0.051874399185180664
+multiSensor/bme680,"{""id"": ""notification:-4791630555313852791"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:21:09.880000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.44}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:17:15.951Z""}}}]}",0,False,1744129269.9358943,0.0483856201171875
+multiSensor/bme680,"{""id"": ""notification:-7864160193718566040"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:21:09.942000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.44}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:17:15.951Z""}}}]}",0,False,1744129269.9841638,0.04826951026916504
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1323680.0,
+	""h"" : 26.0,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:18.951Z""
+}",0,False,1744129272.9489865,2.964822769165039
+multiSensor/bme680,"{""id"": ""notification:-7298637472081681810"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:21:12.990000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1323680}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.44}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:17:18.951Z""}}}]}",0,False,1744129273.0029237,0.05393719673156738
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1323680.0,
+	""h"" : 26.0,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:18.951Z""
+}",0,False,1744129273.050981,0.04805731773376465
+multiSensor/bme680,"{""id"": ""notification:-8382512168779630629"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:21:13.062000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1323680}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.44}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:17:18.951Z""}}}]}",0,False,1744129273.1003911,0.049410104751586914
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1341090.0,
+	""h"" : 26.0,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.43,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:21.950Z""
+}",0,False,1744129276.0627265,2.9623353481292725
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1341090.0,
+	""h"" : 26.0,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.43,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:21.950Z""
+}",0,False,1744129276.1149688,0.052242279052734375
+multiSensor/bme680,"{""id"": ""notification:-6436653847701687432"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:21:16.106000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1341090}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.43}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:17:21.950Z""}}}]}",0,False,1744129276.1692917,0.05432295799255371
+multiSensor/bme680,"{""id"": ""notification:-5409280830921344622"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:21:16.160000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1341090}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.43}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:17:21.950Z""}}}]}",0,False,1744129276.2210891,0.05179738998413086
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1334340.0,
+	""h"" : 26.0,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.43,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:24.950Z""
+}",0,False,1744129279.1748912,2.9538021087646484
+multiSensor/bme680,"{""id"": ""notification:-8980926562068956772"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:21:19.203000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1334340}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.61}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.43}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:17:24.950Z""}}}]}",0,False,1744129279.224301,0.04940986633300781
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1334340.0,
+	""h"" : 26.0,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.43,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:24.950Z""
+}",0,False,1744129279.2772698,0.052968740463256836
+multiSensor/bme680,"{""id"": ""notification:-7512079314050840569"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:21:19.267000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1334340}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.61}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.43}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:17:24.950Z""}}}]}",0,False,1744129279.3269565,0.04968667030334473
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1341090.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.449999999999999,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:27.949Z""
+}",0,False,1744129282.290746,2.963789463043213
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1341090.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.449999999999999,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:27.949Z""
+}",0,False,1744129282.341176,0.0504300594329834
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1331660.0,
+	""h"" : 26.0,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:30.949Z""
+}",0,False,1744129285.4031785,3.062002420425415
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1331660.0,
+	""h"" : 26.0,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:30.949Z""
+}",0,False,1744129285.458185,0.05500650405883789
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1327660.0,
+	""h"" : 26.0,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:33.948Z""
+}",0,False,1744129288.51953,3.061345100402832
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1327660.0,
+	""h"" : 26.0,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:33.948Z""
+}",0,False,1744129288.5712168,0.051686763763427734
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1330320.0,
+	""h"" : 26.0,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.449999999999999,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:36.948Z""
+}",0,False,1744129291.6276104,3.056393623352051
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1330320.0,
+	""h"" : 26.0,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.449999999999999,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:36.948Z""
+}",0,False,1744129291.6886332,0.06102275848388672
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1338380.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:39.948Z""
+}",0,False,1744129294.7453191,3.0566859245300293
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1338380.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:39.948Z""
+}",0,False,1744129294.801229,0.05590987205505371
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.0,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:42.947Z""
+}",0,False,1744129297.858557,3.05732798576355
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.0,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:42.947Z""
+}",0,False,1744129297.9106195,0.0520625114440918
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1326330.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.449999999999999,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:45.947Z""
+}",0,False,1744129300.9700227,3.05940318107605
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1326330.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.449999999999999,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:45.947Z""
+}",0,False,1744129301.0296233,0.0596005916595459
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1331660.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:48.947Z""
+}",0,False,1744129304.087031,3.0574076175689697
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1331660.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:48.947Z""
+}",0,False,1744129304.1363847,0.049353837966918945
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1319720.0,
+	""h"" : 26.0,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.449999999999999,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:51.947Z""
+}",0,False,1744129307.1961036,3.0597188472747803
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1319720.0,
+	""h"" : 26.0,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.449999999999999,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:51.947Z""
+}",0,False,1744129307.247974,0.05187034606933594
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1326330.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.0,
+	""rh"" : 21.449999999999999,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:54.947Z""
+}",0,False,1744129310.3106225,3.0626485347747803
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1326330.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.0,
+	""rh"" : 21.449999999999999,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:54.947Z""
+}",0,False,1744129310.3629785,0.05235600471496582
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1330320.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.449999999999999,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:57.947Z""
+}",0,False,1744129313.429252,3.0662734508514404
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1330320.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.449999999999999,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:17:57.947Z""
+}",0,False,1744129313.4863744,0.05712246894836426
+multiSensor/bme680,"{""id"": ""notification:-8665458869583353389"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:21:53.495000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1330320}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.45}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:17:57.947Z""}}}]}",0,False,1744129313.5346148,0.04824042320251465
+multiSensor/bme680,"{""id"": ""notification:-6952424634380720227"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:21:53.537000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1330320}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.45}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:17:57.947Z""}}}]}",0,False,1744129313.5836763,0.04906153678894043
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1328990.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:00.946Z""
+}",0,False,1744129316.5398824,2.9562060832977295
+multiSensor/bme680,"{""id"": ""notification:-8065575313536575992"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:21:56.575000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1328990}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.44}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:18:00.946Z""}}}]}",0,False,1744129316.587513,0.04763054847717285
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1328990.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:00.946Z""
+}",0,False,1744129316.6369598,0.049446821212768555
+multiSensor/bme680,"{""id"": ""notification:-8363333504620010116"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:21:56.632000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1328990}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.44}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:18:00.946Z""}}}]}",0,False,1744129316.6850562,0.048096418380737305
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1339740.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:03.946Z""
+}",0,False,1744129319.65067,2.965613842010498
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1339740.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:03.946Z""
+}",0,False,1744129319.7031424,0.05247235298156738
+multiSensor/bme680,"{""id"": ""notification:-5986325108266756324"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:21:59.693000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1339740}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.46}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:18:03.946Z""}}}]}",0,False,1744129319.7506573,0.047514915466308594
+multiSensor/bme680,"{""id"": ""notification:-8864580527370749896"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:21:59.747000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1339740}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.46}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:18:03.946Z""}}}]}",0,False,1744129319.798522,0.047864675521850586
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.449999999999999,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:06.945Z""
+}",0,False,1744129322.7643507,2.9658286571502686
+multiSensor/bme680,"{""id"": ""notification:-5372483146120611882"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:22:02.803000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.45}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:18:06.945Z""}}}]}",0,False,1744129322.8152223,0.05087161064147949
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.449999999999999,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:06.945Z""
+}",0,False,1744129322.865985,0.05076265335083008
+multiSensor/bme680,"{""id"": ""notification:-5409401522195315798"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:22:02.869000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.45}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:18:06.945Z""}}}]}",0,False,1744129322.9138772,0.04789233207702637
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1333000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:09.945Z""
+}",0,False,1744129325.8785326,2.9646553993225098
+multiSensor/bme680,"{""id"": ""notification:-7347842334635194227"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:22:05.919000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1333000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.46}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:18:09.945Z""}}}]}",0,False,1744129325.9318333,0.05330061912536621
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1333000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:09.945Z""
+}",0,False,1744129325.9807746,0.04894137382507324
+multiSensor/bme680,"{""id"": ""notification:-6908274233472220088"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:22:05.989000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1333000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.46}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:18:09.945Z""}}}]}",0,False,1744129326.0292985,0.048523902893066406
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.469999999999999,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:12.945Z""
+}",0,False,1744129329.0015235,2.9722249507904053
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.469999999999999,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:12.945Z""
+}",0,False,1744129329.048973,0.047449588775634766
+multiSensor/bme680,"{""id"": ""notification:-8061205837370419536"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:22:09.039000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.47}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:18:12.945Z""}}}]}",0,False,1744129329.0968661,0.04789304733276367
+multiSensor/bme680,"{""id"": ""notification:-4836946092401133467"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:22:09.093000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.47}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:18:12.945Z""}}}]}",0,False,1744129329.14544,0.048573970794677734
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1328990.0,
+	""h"" : 26.0,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:15.944Z""
+}",0,False,1744129332.1091402,2.96370005607605
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1328990.0,
+	""h"" : 26.0,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:15.944Z""
+}",0,False,1744129332.1582832,0.049143075942993164
+multiSensor/bme680,"{""id"": ""notification:-8032071155406981996"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:22:12.162000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1328990}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.44}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:18:15.944Z""}}}]}",0,False,1744129332.2039418,0.04565858840942383
+multiSensor/bme680,"{""id"": ""notification:-8391897273550488595"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:22:12.211000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1328990}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.44}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:18:15.944Z""}}}]}",0,False,1744129332.252507,0.04856514930725098
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1338380.0,
+	""h"" : 26.0,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:18.944Z""
+}",0,False,1744129335.217274,2.9647669792175293
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1338380.0,
+	""h"" : 26.0,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.440000000000001,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:18.944Z""
+}",0,False,1744129335.266599,0.049324989318847656
+multiSensor/bme680,"{""id"": ""notification:-7013931766756229844"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:22:15.267000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1338380}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.61}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.44}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:18:18.944Z""}}}]}",0,False,1744129335.3148813,0.04828238487243652
+multiSensor/bme680,"{""id"": ""notification:-7389666537587758945"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:22:15.318000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1338380}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.61}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.44}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:18:18.944Z""}}}]}",0,False,1744129335.363074,0.048192739486694336
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1328990.0,
+	""h"" : 26.0,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.449999999999999,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:21.943Z""
+}",0,False,1744129338.333018,2.9699440002441406
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1328990.0,
+	""h"" : 26.0,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.449999999999999,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:21.943Z""
+}",0,False,1744129338.3826315,0.04961347579956055
+multiSensor/bme680,"{""id"": ""notification:-7396499536184446460"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:22:18.376000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1328990}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.61}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.45}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:18:21.943Z""}}}]}",0,False,1744129338.4310205,0.04838895797729492
+multiSensor/bme680,"{""id"": ""notification:-7879604262969874110"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:22:18.428000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1328990}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.61}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.45}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:18:21.943Z""}}}]}",0,False,1744129338.4824793,0.05145883560180664
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1322360.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:24.943Z""
+}",0,False,1744129341.4518228,2.969343423843384
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1322360.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:24.943Z""
+}",0,False,1744129341.5016322,0.04980945587158203
+multiSensor/bme680,"{""id"": ""notification:-8246042471002894978"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:22:21.486000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1322360}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.46}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:18:24.943Z""}}}]}",0,False,1744129341.501881,0.0002486705780029297
+multiSensor/bme680,"{""id"": ""notification:-6089694602399158919"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:22:21.555000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1322360}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.46}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:18:24.943Z""}}}]}",0,False,1744129341.5706198,0.06873893737792969
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1342450.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.469999999999999,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:27.944Z""
+}",0,False,1744129344.5615618,2.9909420013427734
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1342450.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.469999999999999,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:27.944Z""
+}",0,False,1744129344.615104,0.053542137145996094
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1341090.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:30.943Z""
+}",0,False,1744129347.6786335,3.0635294914245605
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1341090.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:30.943Z""
+}",0,False,1744129347.733597,0.05496358871459961
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1326330.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:33.943Z""
+}",0,False,1744129350.789321,3.0557239055633545
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1326330.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:33.943Z""
+}",0,False,1744129350.8476121,0.05829119682312012
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1335680.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:36.943Z""
+}",0,False,1744129353.9008408,3.0532286167144775
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1335680.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:36.943Z""
+}",0,False,1744129353.9559598,0.05511903762817383
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1331660.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:39.943Z""
+}",0,False,1744129357.016141,3.060181140899658
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1331660.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:39.943Z""
+}",0,False,1744129357.0656703,0.049529314041137695
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1323680.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:42.942Z""
+}",0,False,1744129360.1595747,3.093904495239258
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1323680.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:42.942Z""
+}",0,False,1744129360.2199087,0.060333967208862305
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1323680.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:45.942Z""
+}",0,False,1744129363.2482321,3.0283234119415283
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1323680.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:45.942Z""
+}",0,False,1744129363.3286505,0.08041834831237793
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1330320.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.469999999999999,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:48.942Z""
+}",0,False,1744129366.35429,3.025639533996582
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1330320.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.469999999999999,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:48.942Z""
+}",0,False,1744129366.405565,0.051275014877319336
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1333000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:51.941Z""
+}",0,False,1744129369.4695773,3.064012289047241
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1333000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:51.941Z""
+}",0,False,1744129369.5238836,0.0543062686920166
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1328990.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:54.941Z""
+}",0,False,1744129372.5805616,3.056678056716919
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1328990.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:54.941Z""
+}",0,False,1744129372.6287308,0.04816913604736328
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1338380.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:57.940Z""
+}",0,False,1744129375.6969552,3.0682244300842285
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1338380.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:18:57.940Z""
+}",0,False,1744129375.7458847,0.048929452896118164
+multiSensor/bme680,"{""id"": ""notification:-5287648284857384573"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:22:55.761000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1338380}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 62}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.48}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:18:57.940Z""}}}]}",0,False,1744129375.7954214,0.049536705017089844
+multiSensor/bme680,"{""id"": ""notification:-8638352677197671088"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:22:55.803000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1338380}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 62}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.48}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:18:57.940Z""}}}]}",0,False,1744129375.845177,0.04975557327270508
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:00.941Z""
+}",0,False,1744129378.8150556,2.969878673553467
+multiSensor/bme680,"{""id"": ""notification:-5606876051622813269"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:22:58.851000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.46}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:19:00.941Z""}}}]}",0,False,1744129378.8636367,0.04858112335205078
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.460000000000001,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:00.941Z""
+}",0,False,1744129378.9143136,0.050676822662353516
+multiSensor/bme680,"{""id"": ""notification:-8266913528107675807"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:22:58.913000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.46}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:19:00.941Z""}}}]}",0,False,1744129378.9623196,0.04800605773925781
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1323680.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:03.940Z""
+}",0,False,1744129381.920926,2.958606481552124
+multiSensor/bme680,"{""id"": ""notification:-7810225725247910438"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:23:01.961000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1323680}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.48}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:19:03.940Z""}}}]}",0,False,1744129381.97194,0.051013946533203125
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1323680.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:03.940Z""
+}",0,False,1744129382.02043,0.048490047454833984
+multiSensor/bme680,"{""id"": ""notification:-6838374014333750501"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:23:02.021000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1323680}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.48}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:19:03.940Z""}}}]}",0,False,1744129382.0689802,0.04855012893676758
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1341090.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.469999999999999,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:06.943Z""
+}",0,False,1744129385.0484853,2.9795050621032715
+multiSensor/bme680,"{""id"": ""notification:-9159745699594886324"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:23:05.083000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1341090}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.61}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.47}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:19:06.943Z""}}}]}",0,False,1744129385.0980573,0.049571990966796875
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1341090.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.469999999999999,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:06.943Z""
+}",0,False,1744129385.1468208,0.04876351356506348
+multiSensor/bme680,"{""id"": ""notification:-5375540240298294628"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:23:05.149000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1341090}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.61}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.47}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:19:06.943Z""}}}]}",0,False,1744129385.1980135,0.0511927604675293
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1330320.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.469999999999999,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:09.942Z""
+}",0,False,1744129388.151858,2.9538445472717285
+multiSensor/bme680,"{""id"": ""notification:-4669950594961937549"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:23:08.189000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1330320}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.61}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.47}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:19:09.942Z""}}}]}",0,False,1744129388.2016773,0.049819231033325195
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1330320.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.469999999999999,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:09.942Z""
+}",0,False,1744129388.2503905,0.04871320724487305
+multiSensor/bme680,"{""id"": ""notification:-5442264696542052416"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:23:08.248000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1330320}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.61}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.47}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:19:09.942Z""}}}]}",0,False,1744129388.2996824,0.04929184913635254
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:12.942Z""
+}",0,False,1744129391.2621434,2.962460994720459
+multiSensor/bme680,"{""id"": ""notification:-4836862353116448718"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:23:11.301000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.48}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:19:12.942Z""}}}]}",0,False,1744129391.3136177,0.05147433280944824
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:12.942Z""
+}",0,False,1744129391.3633392,0.049721479415893555
+multiSensor/bme680,"{""id"": ""notification:-5511678419678485891"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:23:11.360000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.48}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:19:12.942Z""}}}]}",0,False,1744129391.41183,0.04849076271057129
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1328990.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:15.942Z""
+}",0,False,1744129394.380501,2.9686710834503174
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1328990.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:15.942Z""
+}",0,False,1744129394.4356306,0.0551295280456543
+multiSensor/bme680,"{""id"": ""notification:-8901523501225400103"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:23:14.428000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1328990}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.48}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:19:15.942Z""}}}]}",0,False,1744129394.4849832,0.04935264587402344
+multiSensor/bme680,"{""id"": ""notification:-6400582595986389972"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:23:14.483000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1328990}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.48}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:19:15.942Z""}}}]}",0,False,1744129394.5341768,0.049193620681762695
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1321040.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:18.942Z""
+}",0,False,1744129397.492796,2.9586191177368164
+multiSensor/bme680,"{""id"": ""notification:-7230138221322529828"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:23:17.523000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1321040}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.48}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:19:18.942Z""}}}]}",0,False,1744129397.5450945,0.052298545837402344
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1321040.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:18.942Z""
+}",0,False,1744129397.593817,0.04872250556945801
+multiSensor/bme680,"{""id"": ""notification:-4705333518826794185"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:23:17.574000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1321040}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.48}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:19:18.942Z""}}}]}",0,False,1744129397.5939705,0.00015354156494140625
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1323680.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.449999999999999,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:21.941Z""
+}",0,False,1744129400.605818,3.011847496032715
+multiSensor/bme680,"{""id"": ""notification:-8407516588944097317"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:23:20.635000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1323680}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.45}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:19:21.941Z""}}}]}",0,False,1744129400.6549566,0.049138545989990234
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1323680.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.449999999999999,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:21.941Z""
+}",0,False,1744129400.709465,0.05450844764709473
+multiSensor/bme680,"{""id"": ""notification:-6692295078305935622"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:23:20.702000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1323680}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.45}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:19:21.941Z""}}}]}",0,False,1744129400.7614026,0.05193758010864258
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.0,
+	""rh"" : 21.469999999999999,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:24.941Z""
+}",0,False,1744129403.7220635,2.960660934448242
+multiSensor/bme680,"{""id"": ""notification:-5308062619813212330"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:23:23.751000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.47}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:19:24.941Z""}}}]}",0,False,1744129403.7707791,0.04871559143066406
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.0,
+	""rh"" : 21.469999999999999,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:24.941Z""
+}",0,False,1744129403.8223426,0.05156350135803223
+multiSensor/bme680,"{""id"": ""notification:-8723330837833893769"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:23:23.809000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.47}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:19:24.941Z""}}}]}",0,False,1744129403.8682394,0.04589676856994629
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1333000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:27.941Z""
+}",0,False,1744129406.8345463,2.9663069248199463
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1333000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:27.941Z""
+}",0,False,1744129406.885734,0.051187753677368164
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1322360.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:30.941Z""
+}",0,False,1744129409.9486005,3.062866449356079
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1322360.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:30.941Z""
+}",0,False,1744129410.0046182,0.05601763725280762
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:33.942Z""
+}",0,False,1744129413.063013,3.0583949089050293
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:33.942Z""
+}",0,False,1744129413.1208026,0.05778956413269043
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:36.941Z""
+}",0,False,1744129416.176502,3.055699348449707
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.609999999999999,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:36.941Z""
+}",0,False,1744129416.2329118,0.05640983581542969
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1333000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:39.945Z""
+}",0,False,1744129419.292745,3.059833288192749
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1333000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:39.945Z""
+}",0,False,1744129419.3522007,0.05945563316345215
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1339740.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.469999999999999,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:42.944Z""
+}",0,False,1744129422.4086392,3.056438446044922
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1339740.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.469999999999999,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:42.944Z""
+}",0,False,1744129422.4578688,0.04922962188720703
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:45.944Z""
+}",0,False,1744129425.5207465,3.062877655029297
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:45.944Z""
+}",0,False,1744129425.5747914,0.05404496192932129
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1321040.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:48.944Z""
+}",0,False,1744129428.6352525,3.0604610443115234
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1321040.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:48.944Z""
+}",0,False,1744129428.6901202,0.05486774444580078
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1322360.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:51.944Z""
+}",0,False,1744129431.7566054,3.0664851665496826
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1322360.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:51.944Z""
+}",0,False,1744129431.808411,0.05180549621582031
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.0,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:54.943Z""
+}",0,False,1744129434.860594,3.052183151245117
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.0,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:54.943Z""
+}",0,False,1744129434.9149024,0.054308414459228516
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1334340.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:57.942Z""
+}",0,False,1744129437.970912,3.056009531021118
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1334340.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:19:57.942Z""
+}",0,False,1744129438.028046,0.05713391304016113
+multiSensor/bme680,"{""id"": ""notification:-5182439498914933408"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:23:58.033000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1334340}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.48}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:19:57.942Z""}}}]}",0,False,1744129438.0771277,0.04908180236816406
+multiSensor/bme680,"{""id"": ""notification:-5309160930504631345"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:23:58.078000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1334340}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.48}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:19:57.942Z""}}}]}",0,False,1744129438.12662,0.04949235916137695
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.469999999999999,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:00.942Z""
+}",0,False,1744129441.0990589,2.9724388122558594
+multiSensor/bme680,"{""id"": ""notification:-8193986091340925603"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:24:01.134000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.47}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:20:00.942Z""}}}]}",0,False,1744129441.14822,0.04916119575500488
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.469999999999999,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:00.942Z""
+}",0,False,1744129441.1970072,0.04878711700439453
+multiSensor/bme680,"{""id"": ""notification:-7840035536170657369"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:24:01.222000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.47}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:20:00.942Z""}}}]}",0,False,1744129441.2451518,0.04814457893371582
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1327660.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:03.942Z""
+}",0,False,1744129444.197061,2.951909303665161
+multiSensor/bme680,"{""id"": ""notification:-5255014407951103550"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:24:04.233000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1327660}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:20:03.942Z""}}}]}",0,False,1744129444.246013,0.04895186424255371
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1327660.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:03.942Z""
+}",0,False,1744129444.2969983,0.05098533630371094
+multiSensor/bme680,"{""id"": ""notification:-6601441877117055632"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:24:04.300000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1327660}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:20:03.942Z""}}}]}",0,False,1744129444.344766,0.04776763916015625
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1341090.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:06.942Z""
+}",0,False,1744129447.313639,2.9688730239868164
+multiSensor/bme680,"{""id"": ""notification:-5407377183108649035"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:24:07.350000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1341090}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.48}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:20:06.942Z""}}}]}",0,False,1744129447.3623974,0.048758506774902344
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1341090.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:06.942Z""
+}",0,False,1744129447.4120646,0.0496671199798584
+multiSensor/bme680,"{""id"": ""notification:-7904236997522324329"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:24:07.409000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1341090}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.48}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:20:06.942Z""}}}]}",0,False,1744129447.4599593,0.04789471626281738
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1337030.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.0,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:09.941Z""
+}",0,False,1744129450.4279678,2.968008518218994
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1337030.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.0,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:09.941Z""
+}",0,False,1744129450.4766524,0.04868459701538086
+multiSensor/bme680,"{""id"": ""notification:-6207636877341052016"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:24:10.468000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1337030}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 62}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:20:09.941Z""}}}]}",0,False,1744129450.526372,0.04971957206726074
+multiSensor/bme680,"{""id"": ""notification:-8077640759483222183"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:24:10.523000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1337030}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 62}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:20:09.941Z""}}}]}",0,False,1744129450.5753102,0.04893827438354492
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1322360.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:12.941Z""
+}",0,False,1744129453.5447395,2.9694292545318604
+multiSensor/bme680,"{""id"": ""notification:-9083179170707254584"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:24:13.581000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1322360}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.48}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:20:12.941Z""}}}]}",0,False,1744129453.5942118,0.04947233200073242
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1322360.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:12.941Z""
+}",0,False,1744129453.6422462,0.0480344295501709
+multiSensor/bme680,"{""id"": ""notification:-8304909704144794851"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:24:13.646000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1322360}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.48}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:20:12.941Z""}}}]}",0,False,1744129453.6911268,0.048880577087402344
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1334340.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:15.940Z""
+}",0,False,1744129456.673621,2.9824941158294678
+multiSensor/bme680,"{""id"": ""notification:-6445059226233239894"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:24:16.711000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1334340}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:20:15.940Z""}}}]}",0,False,1744129456.7867382,0.11311721801757812
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1334340.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:15.940Z""
+}",0,False,1744129456.8929617,0.10622358322143555
+multiSensor/bme680,"{""id"": ""notification:-6797237130469000358"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:24:16.853000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1334340}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:20:15.940Z""}}}]}",0,False,1744129456.9414759,0.04851412773132324
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1330320.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:18.940Z""
+}",0,False,1744129459.7913861,2.849910259246826
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1330320.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:18.940Z""
+}",0,False,1744129459.8669903,0.07560420036315918
+multiSensor/bme680,"{""id"": ""notification:-5683266107853100845"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:24:19.831000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1330320}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:20:18.940Z""}}}]}",0,False,1744129459.9772587,0.11026835441589355
+multiSensor/bme680,"{""id"": ""notification:-7245477533681138089"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:24:19.911000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1330320}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:20:18.940Z""}}}]}",0,False,1744129460.0581362,0.08087754249572754
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.469999999999999,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:21.940Z""
+}",0,False,1744129462.9011025,2.842966318130493
+multiSensor/bme680,"{""id"": ""notification:-5435270688397363322"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:24:22.946000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.47}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:20:21.940Z""}}}]}",0,False,1744129462.970648,0.06954550743103027
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.469999999999999,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:21.940Z""
+}",0,False,1744129463.037135,0.06648683547973633
+multiSensor/bme680,"{""id"": ""notification:-4622102252079887495"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:24:23.031000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.47}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:20:21.940Z""}}}]}",0,False,1744129463.11083,0.07369518280029297
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:24.939Z""
+}",0,False,1744129465.9930372,2.882207155227661
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:24.939Z""
+}",0,False,1744129466.0527096,0.05967235565185547
+multiSensor/bme680,"{""id"": ""notification:-8829326905894615625"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:24:26.050000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:20:24.939Z""}}}]}",0,False,1744129466.1021655,0.049455881118774414
+multiSensor/bme680,"{""id"": ""notification:-6944358379581113410"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:24:26.108000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:20:24.939Z""}}}]}",0,False,1744129466.1520782,0.04991269111633301
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1326330.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:27.938Z""
+}",0,False,1744129469.122318,2.9702398777008057
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1326330.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:27.938Z""
+}",0,False,1744129469.2193618,0.09704375267028809
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1335680.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:30.938Z""
+}",0,False,1744129472.2204754,3.0011136531829834
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1335680.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:30.938Z""
+}",0,False,1744129472.275001,0.05452561378479004
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1339740.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:33.937Z""
+}",0,False,1744129475.3336759,3.0586748123168945
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1339740.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:33.937Z""
+}",0,False,1744129475.3865736,0.05289769172668457
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1331660.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.579999999999998,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:36.937Z""
+}",0,False,1744129478.4459097,3.0593361854553223
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1331660.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.579999999999998,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:36.937Z""
+}",0,False,1744129478.4946878,0.04877805709838867
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1331660.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:39.936Z""
+}",0,False,1744129481.5581143,3.0634264945983887
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1331660.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:39.936Z""
+}",0,False,1744129481.613183,0.0550687313079834
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1326330.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:42.937Z""
+}",0,False,1744129484.673162,3.05997896194458
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1326330.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:42.937Z""
+}",0,False,1744129484.7279768,0.054814815521240234
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1334340.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:45.936Z""
+}",0,False,1744129487.787657,3.059680223464966
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1334340.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:45.936Z""
+}",0,False,1744129487.8369899,0.04933285713195801
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1338380.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.469999999999999,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:48.935Z""
+}",0,False,1744129490.900804,3.063814163208008
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1338380.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.469999999999999,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:48.935Z""
+}",0,False,1744129490.9563327,0.05552864074707031
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1326330.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.469999999999999,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:51.935Z""
+}",0,False,1744129494.0146081,3.0582754611968994
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1326330.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.469999999999999,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:51.935Z""
+}",0,False,1744129494.0732687,0.05866050720214844
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1337030.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:54.934Z""
+}",0,False,1744129497.132841,3.059572458267212
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1337030.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:54.934Z""
+}",0,False,1744129497.1806455,0.04780435562133789
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1327660.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:57.934Z""
+}",0,False,1744129500.241099,3.0604536533355713
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1327660.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:20:57.934Z""
+}",0,False,1744129500.293579,0.05247998237609863
+multiSensor/bme680,"{""id"": ""notification:-8959778974685370905"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:25:00.299000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1327660}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:20:57.934Z""}}}]}",0,False,1744129500.3429136,0.04933452606201172
+multiSensor/bme680,"{""id"": ""notification:-6346614071025252360"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:25:00.339000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1327660}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:20:57.934Z""}}}]}",0,False,1744129500.3919852,0.049071550369262695
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1326330.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:00.934Z""
+}",0,False,1744129503.3544638,2.9624786376953125
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1326330.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:00.934Z""
+}",0,False,1744129503.4035096,0.04904580116271973
+multiSensor/bme680,"{""id"": ""notification:-5466380364336007080"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:25:03.392000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1326330}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:21:00.934Z""}}}]}",0,False,1744129503.4521515,0.04864192008972168
+multiSensor/bme680,"{""id"": ""notification:-7627618313806797011"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:25:03.446000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1326330}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:21:00.934Z""}}}]}",0,False,1744129503.5012875,0.04913592338562012
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1331660.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:03.934Z""
+}",0,False,1744129506.467887,2.966599464416504
+multiSensor/bme680,"{""id"": ""notification:-8726234289315330817"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:25:06.505000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1331660}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:21:03.934Z""}}}]}",0,False,1744129506.5173,0.04941296577453613
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1331660.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:03.934Z""
+}",0,False,1744129506.5660367,0.0487368106842041
+multiSensor/bme680,"{""id"": ""notification:-5014214027587604211"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:25:06.598000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1331660}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:21:03.934Z""}}}]}",0,False,1744129506.6148243,0.048787593841552734
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:06.934Z""
+}",0,False,1744129509.5844867,2.9696624279022217
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:06.934Z""
+}",0,False,1744129509.633075,0.04858827590942383
+multiSensor/bme680,"{""id"": ""notification:-6618496186093445333"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:25:09.622000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:21:06.934Z""}}}]}",0,False,1744129509.6825914,0.04951643943786621
+multiSensor/bme680,"{""id"": ""notification:-4855827666251095049"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:25:09.683000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:21:06.934Z""}}}]}",0,False,1744129509.7317147,0.049123287200927734
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1338380.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:09.933Z""
+}",0,False,1744129512.695487,2.9637722969055176
+multiSensor/bme680,"{""id"": ""notification:-8947086085282089026"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:25:12.732000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1338380}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 62}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.48}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:21:09.933Z""}}}]}",0,False,1744129512.7441745,0.04868745803833008
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1338380.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:09.933Z""
+}",0,False,1744129512.7924721,0.04829764366149902
+multiSensor/bme680,"{""id"": ""notification:-8491912514315107570"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:25:12.789000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1338380}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 62}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.48}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:21:09.933Z""}}}]}",0,False,1744129512.841473,0.04900097846984863
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1337030.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:12.933Z""
+}",0,False,1744129515.8081076,2.966634511947632
+multiSensor/bme680,"{""id"": ""notification:-4763031738158660329"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:25:15.841000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1337030}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 62}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.48}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:21:12.933Z""}}}]}",0,False,1744129515.856849,0.04874134063720703
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1337030.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.0,
+	""rh"" : 21.48,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:12.933Z""
+}",0,False,1744129515.90542,0.048571109771728516
+multiSensor/bme680,"{""id"": ""notification:-7891896341320033817"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:25:15.890000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1337030}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 62}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.48}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:21:12.933Z""}}}]}",0,False,1744129515.9056385,0.00021839141845703125
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1327660.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.0,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:15.933Z""
+}",0,False,1744129518.92193,3.016291618347168
+multiSensor/bme680,"{""id"": ""notification:-8678684668105512721"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:25:18.946000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1327660}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 62}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:21:15.933Z""}}}]}",0,False,1744129518.9710984,0.04916834831237793
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1327660.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.0,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:15.933Z""
+}",0,False,1744129518.971285,0.00018668174743652344
+multiSensor/bme680,"{""id"": ""notification:-4837419717198868881"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:25:19.009000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1327660}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 62}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:21:15.933Z""}}}]}",0,False,1744129519.0237849,0.05249977111816406
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1335680.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.510000000000002,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:18.932Z""
+}",0,False,1744129522.035928,3.012143135070801
+multiSensor/bme680,"{""id"": ""notification:-8498394515225185373"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:25:22.061000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1335680}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 62}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.51}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:21:18.932Z""}}}]}",0,False,1744129522.084822,0.04889392852783203
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1335680.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.510000000000002,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:18.932Z""
+}",0,False,1744129522.1373575,0.0525355339050293
+multiSensor/bme680,"{""id"": ""notification:-9207945747712294558"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:25:22.125000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1335680}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 62}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.51}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:21:18.932Z""}}}]}",0,False,1744129522.1869419,0.049584388732910156
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.5,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:21.933Z""
+}",0,False,1744129525.1635785,2.9766366481781006
+multiSensor/bme680,"{""id"": ""notification:-5808389661156202243"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:25:25.191000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.5}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:21:21.933Z""}}}]}",0,False,1744129525.211597,0.048018455505371094
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.5,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:21.933Z""
+}",0,False,1744129525.258982,0.04738497734069824
+multiSensor/bme680,"{""id"": ""notification:-6809682013117046940"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:25:25.254000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.5}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:21:21.933Z""}}}]}",0,False,1744129525.3077743,0.048792362213134766
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1334340.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:24.932Z""
+}",0,False,1744129528.2609003,2.9531259536743164
+multiSensor/bme680,"{""id"": ""notification:-7831621333069975305"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:25:28.286000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1334340}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 62}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:21:24.932Z""}}}]}",0,False,1744129528.308881,0.04798078536987305
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1334340.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:24.932Z""
+}",0,False,1744129528.3554199,0.0465388298034668
+multiSensor/bme680,"{""id"": ""notification:-6143994429758035213"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:25:28.345000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1334340}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 62}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:21:24.932Z""}}}]}",0,False,1744129528.3556044,0.00018453598022460938
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.5,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:27.932Z""
+}",0,False,1744129531.3760896,3.0204851627349854
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.5,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:27.932Z""
+}",0,False,1744129531.426268,0.05017852783203125
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1328990.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:30.931Z""
+}",0,False,1744129534.488646,3.0623779296875
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1328990.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:30.931Z""
+}",0,False,1744129534.5373962,0.04875016212463379
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:33.930Z""
+}",0,False,1744129537.6022909,3.064894676208496
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:33.930Z""
+}",0,False,1744129537.6509697,0.04867887496948242
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1333000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:36.930Z""
+}",0,False,1744129540.7125561,3.061586380004883
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1333000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:36.930Z""
+}",0,False,1744129540.7612464,0.0486903190612793
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1328990.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:39.930Z""
+}",0,False,1744129543.8304033,3.0691568851470947
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1328990.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:39.930Z""
+}",0,False,1744129543.8836882,0.05328488349914551
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1335680.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.579999999999998,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:42.930Z""
+}",0,False,1744129546.944361,3.0606727600097656
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1335680.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.1,
+	""rh"" : 21.48,
+	""rt"" : 23.579999999999998,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:42.930Z""
+}",0,False,1744129546.9936404,0.04927945137023926
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1328990.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.5,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:45.930Z""
+}",0,False,1744129550.0568736,3.0632331371307373
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1328990.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.5,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:45.930Z""
+}",0,False,1744129550.1059482,0.049074649810791016
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1337030.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.510000000000002,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:48.931Z""
+}",0,False,1744129553.1715999,3.0656516551971436
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1337030.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 62.0,
+	""p"" : 1023.1,
+	""rh"" : 21.510000000000002,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:48.931Z""
+}",0,False,1744129553.2260504,0.05445051193237305
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.5,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:51.930Z""
+}",0,False,1744129556.2814565,3.055406093597412
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.5,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:51.930Z""
+}",0,False,1744129556.3368537,0.05539727210998535
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1322360.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:54.929Z""
+}",0,False,1744129559.3938034,3.0569496154785156
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1322360.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:54.929Z""
+}",0,False,1744129559.4497285,0.05592513084411621
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1314480.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.0,
+	""rh"" : 21.5,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:57.930Z""
+}",0,False,1744129562.5122163,3.062487840652466
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1314480.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.0,
+	""rh"" : 21.5,
+	""rt"" : 23.600000000000001,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:21:57.930Z""
+}",0,False,1744129562.5633278,0.051111459732055664
+multiSensor/bme680,"{""id"": ""notification:-8318217647336814273"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:26:02.578000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1314480}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.5}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:21:57.930Z""}}}]}",0,False,1744129562.612922,0.04959416389465332
+multiSensor/bme680,"{""id"": ""notification:-6599324856734111960"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:26:02.613000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1314480}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.6}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.5}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:21:57.930Z""}}}]}",0,False,1744129562.6609879,0.048065900802612305
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:22:00.929Z""
+}",0,False,1744129565.626136,2.9651482105255127
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:22:00.929Z""
+}",0,False,1744129565.6743312,0.04819512367248535
+multiSensor/bme680,"{""id"": ""notification:-5648597624622656245"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:26:05.666000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:22:00.929Z""}}}]}",0,False,1744129565.723045,0.04871392250061035
+multiSensor/bme680,"{""id"": ""notification:-8117820071512390914"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:26:05.735000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:22:00.929Z""}}}]}",0,False,1744129565.7715728,0.04852771759033203
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.5,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:22:03.928Z""
+}",0,False,1744129568.7376208,2.966048002243042
+multiSensor/bme680,"{""id"": ""notification:-8025194801294563025"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:26:08.777000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.5}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:22:03.928Z""}}}]}",0,False,1744129568.789161,0.05154013633728027
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1325000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.5,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:22:03.928Z""
+}",0,False,1744129568.8427818,0.05362081527709961
+multiSensor/bme680,"{""id"": ""notification:-5277452824429201077"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:26:08.849000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1325000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.5}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:22:03.928Z""}}}]}",0,False,1744129568.8913777,0.04859590530395508
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1333000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.5,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:22:06.928Z""
+}",0,False,1744129571.8494513,2.958073616027832
+multiSensor/bme680,"{""id"": ""notification:-7236041210501839706"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:26:11.886000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1333000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.5}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:22:06.928Z""}}}]}",0,False,1744129571.8979828,0.048531532287597656
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1333000.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.5,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:22:06.928Z""
+}",0,False,1744129571.9490674,0.05108451843261719
+multiSensor/bme680,"{""id"": ""notification:-6384795621929746899"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:26:11.960000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1333000}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.5}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:22:06.928Z""}}}]}",0,False,1744129571.9970086,0.04794120788574219
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1322360.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:22:09.928Z""
+}",0,False,1744129574.9831831,2.9861745834350586
+multiSensor/bme680,"{""id"": ""notification:-6589373097459651558"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:26:15.023000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1322360}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:22:09.928Z""}}}]}",0,False,1744129575.0363088,0.053125619888305664
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1322360.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.1,
+	""rh"" : 21.489999999999998,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:22:09.928Z""
+}",0,False,1744129575.0851727,0.048863887786865234
+multiSensor/bme680,"{""id"": ""notification:-7828348375584313642"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:26:15.113000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1322360}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023.1}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.49}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:22:09.928Z""}}}]}",0,False,1744129575.1334763,0.04830360412597656
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1327660.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.0,
+	""rh"" : 21.5,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:22:12.927Z""
+}",0,False,1744129578.0785754,2.945099115371704
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1327660.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 64.0,
+	""p"" : 1023.0,
+	""rh"" : 21.5,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:22:12.927Z""
+}",0,False,1744129578.1314237,0.05284833908081055
+multiSensor/bme680,"{""id"": ""notification:-6469584468568960840"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:26:18.119000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1327660}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.5}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:22:12.927Z""}}}]}",0,False,1744129578.1800168,0.04859304428100586
+multiSensor/bme680,"{""id"": ""notification:-7568076394407593768"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:26:18.171000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1327660}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 64}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.5}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:22:12.927Z""}}}]}",0,False,1744129578.2275314,0.04751467704772949
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1328990.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.510000000000002,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:22:15.926Z""
+}",0,False,1744129581.1906025,2.96307110786438
+multiSensor/bme680,"{""id"": ""notification:-7225985932451863136"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:26:21.228000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1328990}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.51}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:22:15.926Z""}}}]}",0,False,1744129581.240566,0.04996347427368164
+i/bme680,"{
+	""aq"" : 3,
+	""gr"" : 1328990.0,
+	""h"" : 26.100000000000001,
+	""iaq"" : 63.0,
+	""p"" : 1023.0,
+	""rh"" : 21.510000000000002,
+	""rt"" : 23.59,
+	""t"" : 20.399999999999999,
+	""ts"" : ""2025-04-08T16:22:15.926Z""
+}",0,False,1744129581.2896576,0.04909157752990723
+multiSensor/bme680,"{""id"": ""notification:-8051101383523335606"", ""type"": ""Notification"", ""subscriptionId"": ""urn:subscription:1"", ""notifiedAt"": ""2025-04-08T16:26:21.293000Z"", ""data"": [{""id"": ""urn:ngsi-ld:multiSensor:bme680"", ""type"": ""multiSensor"", ""Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""VOC"", ""@value"": 3}}, ""Gas Resistance"": {""type"": ""Property"", ""value"": {""type"": ""ohms"", ""@value"": 1328990}}, ""Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 26.1}}, ""Index for Air Quality"": {""type"": ""Property"", ""value"": {""type"": ""calculated index"", ""@value"": 63}}, ""Pressure"": {""type"": ""Property"", ""value"": {""type"": ""hPa"", ""@value"": 1023}}, ""Raw Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 23.59}}, ""Relative Humidity"": {""type"": ""Property"", ""value"": {""type"": ""r.H."", ""@value"": 21.51}}, ""Temperature"": {""type"": ""Property"", ""value"": {""type"": ""celcius"", ""@value"": 20.4}}, ""Timestamp"": {""type"": ""Property"", ""value"": {""type"": ""ISO 8601"", ""@value"": ""2025-04-08T16:22:15.926Z""}}}]}",0,False,1744129581.338283,0.04862546920776367

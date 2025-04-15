@@ -32,7 +32,6 @@ def calculate_delays(data):
     
     topic1, topic2 = data.keys()
     topic2_ptr = 0
-    accepted = 0
     failed = 0
     for sensor_time1, timestamp1 in data[topic1]:
         sensor_time2, timestamp2 = data[topic2][topic2_ptr]
@@ -47,7 +46,7 @@ def calculate_delays(data):
 
 def print_info(delays, failed, total, file):
     assert delays, "Error: No delays found."
-    print(f"Average delay for {file}: {sum(delay for _, delay in delays) / len(delays):.6f}")
+    print(f"Average delay for {file}: {sum(delay for _, delay in delays) * 1000 / len(delays):.3f} ms")
     if failed:
         print(f"Failed to match {failed}/{total} messages.")
 

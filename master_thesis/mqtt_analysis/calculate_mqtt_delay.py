@@ -55,7 +55,9 @@ def print_info(delays, failed, total, file):
 
 
 def main():
-    test_env = ("local", "remote", "ife") 
+    #test_env = ("local", "remote", "ife") 
+    #categories = ("noauth", "manualauth", "autoauth")
+    test_env = ("local", "local2", "remote2_vm", "remote2_native")
     categories = ("noauth", "manualauth", "autoauth")
     for env in test_env:
         for cat in categories:

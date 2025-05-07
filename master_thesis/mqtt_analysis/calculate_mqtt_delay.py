@@ -33,14 +33,24 @@ def calculate_delays(data):
     topic1, topic2 = data.keys()
     topic2_ptr = 0
     failed = 0
+    consecutive_fails = 0
+    consecutive_successes = 0
     for sensor_time1, timestamp1 in data[topic1]:
         sensor_time2, timestamp2 = data[topic2][topic2_ptr]
         if sensor_time1 == sensor_time2:
+            consecutive_successes += 1
+            if consecutive_fails:
+                print("fail: "+str(consecutive_fails))
+                consecutive_fails = 0
             delays.append((sensor_time1, timestamp2 - timestamp1))
             topic2_ptr += 1
             if topic2_ptr == len(data[topic2]):
                 break
         else:
+            consecutive_fails += 1
+            if consecutive_successes:
+                print("success: "+str(consecutive_successes))
+                consecutive_successes = 0
             failed += 1
     return delays, failed, len(data[topic1]) # total messages originally sent
 

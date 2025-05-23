@@ -61,7 +61,7 @@ def print_info(delays, failed, total, file):
         print(f"Failed to match {failed}/{total} messages.")
     with open("output/" + file, "w") as f:
         csv_writer = csv.writer(f)
-        csv_writer.writerows([[round(delay * 1000, 3), _] for _, delay in delays])
+        csv_writer.writerows([[round(delay * 1000, 3)] for _, delay in delays])
         csv_writer.writerow(["Average delay", sum(delay for _, delay in delays) * 1000 / len(delays)])
         csv_writer.writerow(["Min delay", min(delay for _, delay in delays) * 1000])
         csv_writer.writerow(["Max delay", max(delay for _, delay in delays) * 1000])
